@@ -1,7 +1,7 @@
 open BsMocha.Mocha;
 open BsJsverify.Verify.Arbitrary;
 
-# Bisect.Runtime.write_coverage_data_on_exit();
+// Bisect.Runtime.write_coverage_data_on_exit();
 
 module ArbitraryArray:
   Test.ARBITRARY_A with
